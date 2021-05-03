@@ -1,180 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Green River Preserve Blog - Tagged with session 3</title>
-    <description>Blog posts from Green River Preserve</description>
-    <link>https://greenriverpreserve.org</link>
-    <language>en</language>
-    <atom:link href="https://greenriverpreserve.org/blog.rss" rel="self" type="application/rss+xml" />
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>www.postandcourier.com - RSS Results in obits</title>
+        <link>https://www.postandcourier.com/search/?f=rss&amp;c=obits&amp;l=100&amp;d1=24+hours+ago</link>
+        <atom:link href="https://www.postandcourier.com/search/?f=rss&amp;c=obits&amp;l=100&amp;d1=24+hours+ago" rel="self" type="application/rss+xml" />
+        <description>
+		www.postandcourier.com - RSS Results
+		in section(s) obits
+	</description>
+        <generator>TNCMS 1.57.2</generator>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <ttl>30</ttl>
 
-    
-    <item>
-      <title>End of an Era</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Wed, 17 Jul 2019 22:47:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/closing-day</link>
-      <guid isPermaLink="false">a52f96ca-d4a8-4346-9b41-7d8de7e275cc</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/60095/_T5A1273epano.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>No words can truly explain the love and joy that our campers share for this place. The unfaltering magic and wonder of Green River Preserve was so app...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Tue, 16 Jul 2019 22:00:00 AEST</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/love</link>
-      <guid isPermaLink="true">87078aa7-ab05-4a9d-9bc7-ae0ccb33110d</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/60044/Untitled_Panorama1.jpg?fit=clip&w=800&h=800"></p> 
-        <p>“Be kind. Do at least one act of unbargaining service each day. Be helpful. Do your share of the work. Be joyful. Seek the joy of being alive.” Love i...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Mon, 15 Jul 2019 21:02:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/community</link>
-      <guid isPermaLink="false">8e041f27-b781-448f-85ef-775fa9dfe8ff</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59959/_T5A0998e.jpg?fit=clip&w=800&h=800"></p> 
-        <p>With the end of Session 3 fast approaching, we’re all just trying to soak up every last bit of the magic. It’s hard to end a conversation, because we ...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Truth</title>
-      <author>info@greenriverpreserve.org (Green River Preserve)</author>
-      <pubDate>Sun, 14 Jul 2019 17:57:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/truth</link>
-      <guid isPermaLink="false">305a7fcf-79c5-43b3-a9c3-3a9141bf8bf1</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59874/_R1A2377epano.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>Next in our ongoing discussion of the Woodcraft Laws is Truth, another often-quoted gem. “Word of honor is sacred,” this Law reminds us. “Play fair; f...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>The Variety Show</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Sat, 13 Jul 2019 15:25:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/variety-show</link>
-      <guid isPermaLink="false">69ca34bb-33fd-4433-bbe4-ab37d775d60b</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59863/_R1A0557.JPG?fit=clip&w=800&h=800"></p> 
-        <p>In my few years at GRP, I don’t think I’ve ever seen such a beautiful, cohesive and engaging Variety Show, such as the one we had last night. All in a...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Beauty</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Fri, 12 Jul 2019 21:22:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/beauty</link>
-      <guid isPermaLink="false">879e69d1-0f2d-42b4-a903-1fbad479d4c2</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59824/_R1A0534e.JPG?fit=clip&w=800&h=800"></p> 
-        <p>The four Woodcraft Laws–Beauty, Truth, Fortitude, and Love–act as the guiding principles and moral code for our time at GRP. A few days ago, I wrote a...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Summertime Fun</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Thu, 11 Jul 2019 21:32:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/summertime-fun</link>
-      <guid isPermaLink="false">ec2d4714-7814-4940-9424-78cbf5ba3583</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59764/_R1A8960DDII.JPG?fit=clip&w=800&h=800"></p> 
-        <p>Tonight we found ourselves celebrating Independence Day. Since July 4th happened to be the day before Campout, we didn’t have the chance to stay up la...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Making a Mark</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Wed, 10 Jul 2019 18:19:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/group-learning-projects</link>
-      <guid isPermaLink="false">2806c7a8-4b83-44a0-8ae2-00c2aa2541dd</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59714/_T5A5525e.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>When campers sign up for activities and GLPs, often the most popular are projects that involve leaving a lasting impact here at GRP. Many of our 3-Wee...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>DuPont Day: Part I</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Mon, 08 Jul 2019 15:41:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/dupont-day-part-i</link>
-      <guid isPermaLink="false">45e7f5b1-d679-4f61-a83a-8ae685e6ac35</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59550/_R1A5125epano.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>It’s Part I of DuPont Day! This means that earlier today, half of camp loaded up onto a couple of buses to venture into DuPont State Forest, while the...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Back to Base Camp</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Sun, 07 Jul 2019 17:08:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/back-to-base-camp</link>
-      <guid isPermaLink="false">71389631-43a3-4420-9da8-f40bd1bd8def</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59514/_T5A3677e.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>After what seems like forever, campers have returned from Campout. They left the Back Field on Friday morning, to trek to their first campsite. Thunde...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Who Wants Pancakes?</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Sat, 06 Jul 2019 20:20:00 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/who-wants-pancakes</link>
-      <guid isPermaLink="false">e35ae55b-378a-42f1-bd9c-16a23616950b</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59458/_R1A4009e.jpg?fit=clip&w=800&h=800"></p> 
-        <p>Campout continues in our pocket of the Blue Ridge Mountains. This morning, we visited the backpacking groups located by the Green River, at Hemlock Fi...</p>
-        ]]>
-      </description>
-    </item>
-    
-    <item>
-      <title>Campout</title>
-      <author>mediacoordinator@greenriverpreserve.org (Brandon Marshall)</author>
-      <pubDate>Fri, 05 Jul 2019 14:00:31 EDT</pubDate>
-      <link>https://greenriverpreserve.org/blog/2019/7/campout</link>
-      <guid isPermaLink="false">dac21a05-a981-4e01-8cb4-526aa925c7e5</guid>
-      <description>
-        <![CDATA[
-        <p><img  width="480" src="https://typewriter.imgix.net/u/ab2ad5f9-06f3-45f3-9636-c6098bf6ed6f/p/59408/_R1A3978e.jpg?fit=crop&w=1000&h=&crop=faces"></p> 
-        <p>You know what they say–it always rains on Campout! Well, folks, it’s Campout…and it’s raining. Having said that, the power of positivity will undoubte...</p>
-        ]]>
-      </description>
-    </item>
-    
-  </channel>
+        <item>
+            <title>Degner,  William Maurice</title>
+            <description>William Maurice Degner , 79, of Mount Pleasant, SC Thursday April 29. J. Henry Stuhr, Inc. Mount Pleasant Chapel. *DATE OF DEATH 4/29/2021*</description>
+            <pubDate>Sun, 02 May 2021 00:00:00 AEST</pubDate>
+            <guid isPermaLink="false">http://www.postandcourier.com/tncms/asset/editorial/16fda75f-3bbe-5e7c-9293-746ea0af66e9</guid>
+            <link>https://obits.postandcourier.com/obituaries/charleston/obituary.aspx?n=william-maurice-degner&amp;pid=198517998&amp;fhid=6307</link>
+            <dc:creator>Charleston Post &amp; Courier</dc:creator>
+            <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/1/6f/16fda75f-3bbe-5e7c-9293-746ea0af66e9/608e30f5cd9a7.preview.jpg?resize=300%2C300" length="14791" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Howard,  Joyce Reeder Bath</title>
+            <description>Joyce Reeder Bath Howard , 82, of Mount Pleasant, SC Thursday April 29.*DATE OF DEATH 4/29/2021*</description>
+            <pubDate>Sun, 02 May 2021 00:00:00 -0400</pubDate>
+            <guid isPermaLink="false">http://www.postandcourier.com/tncms/asset/editorial/89608d51-e36e-5e53-b56a-405415b64afd</guid>
+            <link>https://obits.postandcourier.com/obituaries/charleston/obituary.aspx?n=joyce-reeder-bath-howard&amp;pid=198517999&amp;fhid=23133</link>
+            <dc:creator>Charleston Post &amp; Courier</dc:creator>
+            <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/96/89608d51-e36e-5e53-b56a-405415b64afd/608e30f60ced1.preview.jpg?resize=300%2C300" length="14791" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Brown Sr.,  Lester</title>
+            <description>Lester Brown, Sr. Summerville - Lester Brown, 59, formerly of Johns Island, SC, entered into eternal rest Tuesday, April 27, 2021. Relatives and...</description>
+            <pubDate>Sun, 02 May 2021 00:00:00 -0400</pubDate>
+            <guid isPermaLink="false">http://www.postandcourier.com/tncms/asset/editorial/c4802961-1d5a-5e3d-864b-37ffb0c1d7de</guid>
+            <link>https://obits.postandcourier.com/obituaries/charleston/obituary.aspx?n=lester-brown&amp;pid=198529212&amp;fhid=28531</link>
+            <dc:creator>Charleston Post &amp; Courier</dc:creator>
+            <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/48/c4802961-1d5a-5e3d-864b-37ffb0c1d7de/608f6e3e54c5a.preview.jpg?resize=300%2C300" length="23392" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>MURRAY,  SHIRLEY V.</title>
+            <description>In Loving Memory Of SHIRLEY V. MURRAY December 18,1934 ~ May 3, 2011 Mothers hold their children's hands for a time, but their hearts forever....</description>
+            <pubDate>Sun, 02 May 2021 00:00:00 -0400</pubDate>
+            <guid isPermaLink="false">http://www.postandcourier.com/tncms/asset/editorial/20babe96-3f7e-5411-9068-86db692a1dbb</guid>
+            <link>https://obits.postandcourier.com/obituaries/charleston/obituary.aspx?n=shirley-v-murray&amp;pid=198529214</link>
+            <dc:creator>Charleston Post &amp; Courier</dc:creator>
+            <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/0b/20babe96-3f7e-5411-9068-86db692a1dbb/608f6e3e77d5b.preview.jpg?resize=300%2C300" length="20259" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>SMITH,  JORDAN RENALDO</title>
+            <description>In Loving Memory Of My Grandson JORDAN RENALDO SMITH October 1, 1986 ~ May 3, 2009 "Special Angel In Heaven" There is a special Angel in Heaven that...</description>
+            <pubDate>Sun, 02 May 2021 00:00:00 -0400</pubDate>
+            <guid isPermaLink="false">http://www.postandcourier.com/tncms/asset/editorial/bb545519-2ae3-5d7d-bd96-83a616d5ca11</guid>
+            <link>https://obits.postandcourier.com/obituaries/charleston/obituary.aspx?n=jordan-renaldo-smith&amp;pid=198529213</link>
+            <dc:creator>Charleston Post &amp; Courier</dc:creator>
+            <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/b/b5/bb545519-2ae3-5d7d-bd96-83a616d5ca11/608f6e3e8f1c5.preview.jpg?resize=300%2C300" length="17515" type="image/jpeg" />
+        </item>
+
+    </channel>
 </rss>
